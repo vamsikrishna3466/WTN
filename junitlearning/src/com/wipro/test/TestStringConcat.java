@@ -18,5 +18,5 @@ public class TestStringConcat {
 	public void test() {
 		assertEquals("vamsi krishna",dailytasksobject.doStringConcat("vamsi","krishna"));
 	}
-
+	
 }

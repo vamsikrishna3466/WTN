@@ -17,4 +17,4 @@ public class DailyTasks
 	{
 		return str.contains(a);
 	}
-}
+	}
